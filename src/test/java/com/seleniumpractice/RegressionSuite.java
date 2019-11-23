@@ -106,6 +106,11 @@ public class RegressionSuite extends Hooks {
 
 
     }
+    @Test
+    public void dummyTest()
+    {
+        
+    }
 
 }
 
